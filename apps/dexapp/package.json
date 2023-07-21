@@ -9,10 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@dexkit/core": "/home/joaocampos/dexkit/dexkit-monorepo/packages/dexkit-core",
-    "@dexkit/dexappbuilder-viewer": "/home/joaocampos/dexkit/dexkit-monorepo/packages/dexappbuilder-viewer",
+    "@dexkit/core": "*",
+    "@dexkit/dexappbuilder-viewer": "*",
     "@dexkit/plugins": "*",
-    "@dexkit/ui": "/home/joaocampos/dexkit/dexkit-monorepo/packages/dexkit-ui",
+    "@dexkit/ui": "*",
     "@magic-ext/oauth": "^12.4.1",
     "@mui/lab": "^5.0.0-alpha.137",
     "@mycrypto/gas-estimation": "^1.1.1",
