@@ -16,7 +16,6 @@
   "dependencies": {
     "@dexkit/core": "*",
     "@dexkit/dexappbuilder-viewer": "*",
-    "@dexkit/plugins": "*",
     "@dexkit/ui": "*",
     "@dexkit/web3forms": "*",
     "@dexkit/widgets": "*"
