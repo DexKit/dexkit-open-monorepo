@@ -1,0 +1,24 @@
+{
+  "name": "@dexkit/plugins",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint \"**/*.ts*\""
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "eslint": "^7.32.0",
+    "eslint-config-custom": "*",
+    "tsconfig": "*",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "@dexkit/core": "*",
+    "@dexkit/dexappbuilder-viewer": "*",
+    "@dexkit/plugins": "*",
+    "@dexkit/ui": "*",
+    "@dexkit/web3forms": "*",
+    "@dexkit/widgets": "*"
+  }
+}
