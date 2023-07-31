@@ -7,7 +7,6 @@ import { QueryClient, dehydrate } from "@tanstack/react-query";
 import { useAppConfig } from "@dexkit/ui/hooks";
 import { getConfig } from "@dexkit/ui/services/whitelabel";
 import { AppConfig } from "@dexkit/ui/types/config";
-import { AppPageSection } from "@dexkit/dexappbuilder-viewer/types";
 
 const ExamplePage: NextPage = () => {
   // We can pass here directly JSON file if wanted
